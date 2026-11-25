@@ -1,0 +1,6 @@
+# Los datos de inscripción contienen DNI y nombres de menores (Ley N.° 29733): nunca se suben al repositorio.
+*.xlsx
+*.csv
+# Archivo generado por entrenar.py; se carga desde el panel, no se versiona.
+segmentos.json
+__pycache__/
